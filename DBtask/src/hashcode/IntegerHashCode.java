@@ -11,6 +11,7 @@ public class IntegerHashCode {
         int hashvalue1 = i1.hashCode();
         System.out.println("Hashcode of an object is: "+hashValue);
         System.out.println("Hashcode of an object is: " +hashvalue1);
+	System.out.println("Testing Repository");
         
 	}
 
